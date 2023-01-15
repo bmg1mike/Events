@@ -1,0 +1,15 @@
+/Users/michael/Documents/Projects/Event/bin/Debug/net7.0/Event
+/Users/michael/Documents/Projects/Event/bin/Debug/net7.0/Event.deps.json
+/Users/michael/Documents/Projects/Event/bin/Debug/net7.0/Event.runtimeconfig.json
+/Users/michael/Documents/Projects/Event/bin/Debug/net7.0/Event.dll
+/Users/michael/Documents/Projects/Event/bin/Debug/net7.0/Event.pdb
+/Users/michael/Documents/Projects/Event/obj/Debug/net7.0/Event.csproj.AssemblyReference.cache
+/Users/michael/Documents/Projects/Event/obj/Debug/net7.0/Event.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michael/Documents/Projects/Event/obj/Debug/net7.0/Event.AssemblyInfoInputs.cache
+/Users/michael/Documents/Projects/Event/obj/Debug/net7.0/Event.AssemblyInfo.cs
+/Users/michael/Documents/Projects/Event/obj/Debug/net7.0/Event.csproj.CoreCompileInputs.cache
+/Users/michael/Documents/Projects/Event/obj/Debug/net7.0/Event.dll
+/Users/michael/Documents/Projects/Event/obj/Debug/net7.0/refint/Event.dll
+/Users/michael/Documents/Projects/Event/obj/Debug/net7.0/Event.pdb
+/Users/michael/Documents/Projects/Event/obj/Debug/net7.0/Event.genruntimeconfig.cache
+/Users/michael/Documents/Projects/Event/obj/Debug/net7.0/ref/Event.dll
